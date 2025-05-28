@@ -1,4 +1,6 @@
-![IMG_0129](https://github.com/user-attachments/assets/56af6404-73f6-49ca-95e5-2f7b0068c9e8)
+![FD5B2CCA-628B-4338-AAFD-94077B8F96EB](https://github.com/user-attachments/assets/5e42c8f8-e306-42f3-bc3f-364f00157758)
+
+
 # PROPHET-OF-WALLSTREET
 
 ## Overview
