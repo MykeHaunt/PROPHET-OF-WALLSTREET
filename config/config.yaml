@@ -1,0 +1,17 @@
+paths:
+  data_path: data/sample_stock_data.csv
+  output_dir: results
+
+prophet:
+  forecast_days: 30
+
+lstm:
+  window_size: 10
+  units: 50
+  epochs: 50
+  batch_size: 16
+  test_size: 0.2
+
+isolation:
+  n_estimators: 100
+  contamination: 0.01
