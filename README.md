@@ -164,8 +164,13 @@ pip install pandas numpy scikit-learn matplotlib tensorflow prophet
 
 ## License
 
-⚠️ This project has **no LICENSE file** and is therefore **not open source** by default.  
-Contributions or usage outside personal testing should be avoided unless the author clarifies the license.
+GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
 ---
 
