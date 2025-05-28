@@ -178,5 +178,5 @@ GNU GENERAL PUBLIC LICENSE
 
 ## Authors & Credits
 
-Originally developed by **Myke Haunt**  
+Originally developed by **H PANDIT**  
 GitHub: [MykeHaunt/PROPHET-OF-WALLSTREET](https://github.com/MykeHaunt/PROPHET-OF-WALLSTREET)
