@@ -1,8 +1,6 @@
 ![FD5B2CCA-628B-4338-AAFD-94077B8F96EB](https://github.com/user-attachments/assets/5e42c8f8-e306-42f3-bc3f-364f00157758)
-
 # PROPHET-OF-WALLSTREET
 
-![Build](https://github.com/MykeHaunt/PROPHET-OF-WALLSTREET/actions/workflows/conda-package.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License](https://img.shields.io/github/license/MykeHaunt/PROPHET-OF-WALLSTREET)
 ![Status](https://img.shields.io/badge/status-Beta-blue.svg)
